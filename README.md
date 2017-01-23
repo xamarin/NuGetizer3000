@@ -2,4 +2,4 @@
 
 NuGetizer 3000 is here, and will be beyond awesome!
 
-Check out the [wiki](https://github.com/xamarin/NuGetizer3000/wiki) for more details.
+The work on Nugetizer-3000 [has moved to the NuGet organization](https://github.com/NuGet/NuGet.Build.Packaging)
